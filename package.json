@@ -1,0 +1,19 @@
+{
+  "name": "Smartcam",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Reddot",
+    "email": "reddotsas@gmail.com"
+  },
+  "repository": "aispladema/smartcam-docs",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
